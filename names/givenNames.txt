@@ -1,0 +1,196 @@
+# Africa and middle east - Arabic - Male
+Mohamed
+Abdelkader
+Mohammed
+Rachid
+Said
+Djamel
+Youssef
+Ahmed
+Mahmoud
+Mustafa
+Yassin
+Taha
+Khaled
+Hamza
+Bilal
+Ibrahim
+Hassan
+Hussein
+Karim
+Tareq
+Abdel-Rahman
+Ali
+Omar
+Halim
+Murad
+Selim
+Abdallah
+
+
+# Africa and middle east - Arabic - Female
+Shaimaa
+Fatma
+Maha
+Reem
+Farida
+Aya
+Shahd
+Ashraqat
+Sahar
+Fatin
+Dalal
+Doha
+Fajr
+Suha
+Rowan
+Hosniya
+Hasnaa
+Hosna
+Gamila
+Gamalat
+Habiba
+
+# North America - Male - English
+Noah
+Liam
+Jackson
+Lucas
+Logan
+Benjamin
+Jacob
+William
+Oliver
+James
+Mason
+John
+Robert
+Michael
+David
+Richard
+Charles
+Joseph
+Thomas
+Elijah (Hebrew)
+
+# North America - Female - English
+Emma
+Olivia
+Ava
+Isabella
+Sophia
+Taylor
+Charlotte
+Amelia
+Evelyn
+Abigail
+Mary
+Patricia
+Linda
+Barbara
+Elizabeth
+Jennifer
+Maria
+Susan
+Margaret
+
+# Americas - Male - Spanish
+Santiago
+Mateo
+Juan
+Matías
+Nicolás
+Benjamín
+Pedro
+Tomás
+Thiago
+Santino
+
+# Americas - Female - Spanish
+Sofía
+María
+Lucía
+Martina
+Catalina
+Elena
+Emilia
+Valentina
+Paula
+Zoe
+
+# Americas - Male - Portugese
+Miguel
+Arthur
+Davi
+Heitor
+Gabriel
+Bernardo
+Lorenzo
+João
+Enzo
+Pedro
+Henrique
+
+# Americas - Portugese - Female 
+Alice
+Valentina
+Helena
+Laura
+Sophia
+Maria
+Eduarda
+Lorena
+Júlia
+Heloísa
+Lívia
+
+# North-America - English
+# North-America - Spanish
+# North-America - African
+# North-America - Hebrew
+
+# South-America - English
+# South-America - Spanish
+# South-America - Portugese
+
+# Western-Europe - English
+# Western-Europe - Gailic
+# Western-Europe - Icelandic
+# Western-Europe - French
+# Western-Europe - German
+# Western-Europe - Spanish
+# Western-Europe - Italian
+# Western-Europe - Scandinavian
+# Western-Europe - Hellenic (Greecian)
+
+# Eastern-Europe - Baltic
+# Eastern-Europe - Slavic
+# Eastern-Europe - Uralic
+# Eastern-Europe - Russian
+
+# Middle-Eastern - Hebrew
+# Middle-Eastern - Arabic
+# Middle-Eastern - Turkish
+# Middle-Eastern - Persian
+# Middle-Eastern - English
+
+# Asia - English
+# Asia - Chinese
+# Asia - Chinese-Taiwanese
+# Asia - Mongolian
+# Asia - Japanese
+# Asia - Korean
+# Asia - Indian
+# Asia - Indo-European
+
+# Southeast-Asia - English
+# Southeast-Asia - Indoneasian
+# Southeast-Asia - Malaysian
+# Sourheast-Asia - Vietnemese
+# Southeast-Asia - Thai
+
+# Oceania - English
+# Oceania - Australian Indiginous
+# Oceania - Pacific Islander
+
+

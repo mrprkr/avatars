@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Peter",
+		"languages": ["english", "russian"],
+		"character_language": "english",
+		"alternate_spelling": ["Pete"],
+		"countries": [""]
+	}
+]
